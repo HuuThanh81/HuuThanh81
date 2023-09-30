@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-<!--
-**HuuThanh81/HuuThanh81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### GitHub Stats - is a ✨ _special_ ✨
+<img src="https://github-readme-stats.vercel.app/api?username=huuthanh81&show_icons=true&theme=material-palenight"/>
+
+<hr/>
+
+### Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huuthanh81&layout=compact&theme=material-palenight" />
 
 Here are some ideas to get you started:
 
